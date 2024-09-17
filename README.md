@@ -1,6 +1,11 @@
 "Proyecto git " 
-"A¤adiendo contenido en la rama nueva-funcionalidad." 
-"Modificaci¢n en la rama principal." 
-"Modificaci¢n en la rama principal." 
-"Segunda Modificacion en la rama principal." 
+"Aï¿½adiendo contenido en la rama nueva-funcionalidad." 
+ HEAD
 "Cambios en la rama principal." 
+
+"Segunda Modificaciï¿½n en la rama Nueva-Funcionalidad." 
+"Modificaciï¿½n en la rama principal." 
+"Segunda Modificacion en la rama principal." 
+"Segunda Modificaciï¿½n en la rama Nueva-Funcionalidad." 
+"Modificaciï¿½n en la rama principal." 
+ nueva-rama
